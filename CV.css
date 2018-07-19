@@ -1,0 +1,45 @@
+body{
+	font-family: Helvetica;
+	animation: fadein 2s;
+	}
+
+.shox{
+    border: 1px #72543b groove;
+    display:table;
+    }
+
+.bloc{
+	width: 100%
+	}
+#header{
+	display: flex;
+	flex-wrap: nowrap;
+	height: 20%;
+	background-color: #49EFDE;
+    }
+
+#footer {
+	background-image: url();
+	height: 80%;
+	}
+
+.smithzzz {
+	text-align: center;
+	}
+.kioshima {
+	margin: 30px;
+	}
+
+@-webkit-keyframes fadein {
+    from {
+        opacity:0;
+    }
+    to {
+        opacity:1;
+    }
+}
+
+h4{
+	color: #901CEA;
+}
+
